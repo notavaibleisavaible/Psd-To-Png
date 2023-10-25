@@ -1,4 +1,4 @@
-# Spd-To-Png
+# Psd-To-Png
 Converts photoshop file (PSD) to a png image on terminal
 
 Script Only Tested On Linux (Manjaro)

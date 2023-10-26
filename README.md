@@ -4,7 +4,7 @@ Converts photoshop file (PSD) to a png image on terminal
 Script Only Tested On Linux (Manjaro)
 
 ### Requirements
-**psd-tools** installed on system
+[**psd-tools**](https://psd-tools.readthedocs.io/en/latest/) installed on system
 
 ### How to use
 Create a folder on the same dir as the script, throw everything there, and run the script.
